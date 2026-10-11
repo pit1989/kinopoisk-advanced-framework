@@ -35,7 +35,7 @@ kinopoisk-advanced-framework/
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
    ```bash
-   git clone https://github.com/pit1989/kinopoisk-advanced-framework)
+   git clone https://github.com/pit1989/kinopoisk-advanced-framework
    cd kinopoisk-advanced-framework
    ```
 
