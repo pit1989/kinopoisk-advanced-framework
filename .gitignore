@@ -1,0 +1,16 @@
+# Python cache
+**/__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Test reports
+.pytest_cache/
+htmlcov/
